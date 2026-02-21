@@ -23,7 +23,7 @@ A classic **Snake Game** built using **Python** and **Streamlit**. The game feat
 ##  Installation
 
 1. Install Python 3.8 or above.
-2. Run "streamlit run app.py"
+2. Run "streamlit run Snake_Game.py"
 
 
 
