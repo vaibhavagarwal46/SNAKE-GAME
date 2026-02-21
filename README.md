@@ -1,6 +1,6 @@
-#  Snake Game (Python + Pygame)
+#  Snake Game (Python & Streamlit)
 
-A classic **Snake Game** built using **Python** and **Pygame**. The game features smooth movement, score tracking, random food generation, screen wrapping, and proper error handling.
+A classic **Snake Game** built using **Python** and **Streamlit**. The game features smooth movement, score tracking, random food generation, screen wrapping, and proper error handling.
 
 ##  Features
 
@@ -17,15 +17,13 @@ A classic **Snake Game** built using **Python** and **Pygame**. The game feature
 ##  Technologies Used
 
 - **Python 3**
-- **Pygame**
-- **Random module**
+- Streamlit
 
 
 ##  Installation
 
 1. Install Python 3.8 or above.
-2. "pip install pygame" run this command in your terminal.
-3. "python snake_game.py" 
+2. Run "streamlit run app.py"
 
 
 
